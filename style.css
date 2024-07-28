@@ -1,3 +1,8 @@
 h1 {
   color: green;
 }
+
+p {
+  color: black;
+  text-transform: uppercase;
+}
